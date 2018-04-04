@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <Switch
+            android:id="@+id/ADA"
+            style="?android:listSeparatorTextViewStyle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:checked="false"
+            android:text="@string/ADA"
+            android:textColor="@color/colorAccent"
+            android:textSize="24sp" />
+
+        <Switch
+            android:id="@+id/BCH"
+            style="?android:listSeparatorTextViewStyle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:checked="false"
+            android:text="@string/BCH"
+            android:textColor="@color/colorAccent"
+            android:textSize="24sp" />
+
+        <Switch
+            android:id="@+id/BNB"
+            style="?android:listSeparatorTextViewStyle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:checked="false"
+            android:text="@string/BNB"
+            android:textColor="@color/colorAccent"
+            android:textSize="24sp" />
+
+        <Switch
+            android:id="@+id/BTC"
+            style="?android:listSeparatorTextViewStyle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:checked="false"
+            android:text="@string/BTC"
+            android:textColor="@color/colorAccent"
+            android:textSize="24sp" />
+
+        <Switch
+            android:id="@+id/DASH"
+            style="?android:listSeparatorTextViewStyle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:checked="false"
+            android:text="@string/DASH"
+            android:textColor="@color/colorAccent"
+            android:textSize="24sp" />
+
+
+        <Switch
+            android:id="@+id/EOS"
+            style="?android:listSeparatorTextViewStyle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:checked="false"
+            android:text="@string/EOS"
+            android:textColor="@color/colorAccent"
+            android:textSize="24sp" />
+
+        <Switch
+            android:id="@+id/ETC"
+            style="?android:listSeparatorTextViewStyle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:checked="false"
+            android:text="@string/ETC"
+            android:textColor="@color/colorAccent"
+            android:textSize="24sp" />
+
+        <Switch
+            android:id="@+id/ETH"
+            style="?android:listSeparatorTextViewStyle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:checked="false"
+            android:text="@string/ETH"
+            android:textColor="@color/colorAccent"
+            android:textSize="24sp" />
+
+        <Switch
+            android:id="@+id/HT"
+            style="?android:listSeparatorTextViewStyle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:checked="false"
+            android:text="@string/HT"
+            android:textColor="@color/colorAccent"
+            android:textSize="24sp" />
+
+        <Switch
+            android:id="@+id/ICX"
+            style="?android:listSeparatorTextViewStyle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:checked="false"
+            android:text="@string/ICX"
+            android:textColor="@color/colorAccent"
+            android:textSize="24sp" />
+
+        <Switch
+            android:id="@+id/IOST"
+            style="?android:listSeparatorTextViewStyle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:checked="false"
+            android:text="@string/IOST"
+            android:textColor="@color/colorAccent"
+            android:textSize="24sp" />
+
+        <Switch
+            android:id="@+id/LTC"
+            style="?android:listSeparatorTextViewStyle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:checked="false"
+            android:text="@string/LTC"
+            android:textColor="@color/colorAccent"
+            android:textSize="24sp" />
+
+        <Switch
+            android:id="@+id/MTL"
+            style="?android:listSeparatorTextViewStyle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:checked="false"
+            android:text="@string/MTL"
+            android:textColor="@color/colorAccent"
+            android:textSize="24sp" />
+
+        <Switch
+            android:id="@+id/NCASH"
+            style="?android:listSeparatorTextViewStyle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:checked="false"
+            android:text="@string/NCASH"
+            android:textColor="@color/colorAccent"
+            android:textSize="24sp" />
+
+        <Switch
+            android:id="@+id/NEO"
+            style="?android:listSeparatorTextViewStyle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:checked="false"
+            android:text="@string/NEO"
+            android:textColor="@color/colorAccent"
+            android:textSize="24sp" />
+
+        <Switch
+            android:id="@+id/QTUM"
+            style="?android:listSeparatorTextViewStyle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:checked="false"
+            android:text="@string/QTUM"
+            android:textColor="@color/colorAccent"
+            android:textSize="24sp" />
+
+        <Switch
+            android:id="@+id/STORM"
+            style="?android:listSeparatorTextViewStyle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:checked="false"
+            android:text="@string/STORM"
+            android:textColor="@color/colorAccent"
+            android:textSize="24sp" />
+
+        <Switch
+            android:id="@+id/TRX"
+            style="?android:listSeparatorTextViewStyle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:checked="false"
+            android:text="@string/TRX"
+            android:textColor="@color/colorAccent"
+            android:textSize="24sp" />
+
+
+        <Switch
+            android:id="@+id/XRP"
+            style="?android:listSeparatorTextViewStyle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:checked="false"
+            android:text="@string/XRP"
+            android:textColor="@color/colorAccent"
+            android:textSize="24sp" />
+
+        <Switch
+            android:id="@+id/XVG"
+            style="?android:listSeparatorTextViewStyle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:checked="false"
+            android:text="@string/XVG"
+            android:textColor="@color/colorAccent"
+            android:textSize="24sp" />
+
+
+    </LinearLayout>
+
+
+
+</ScrollView>

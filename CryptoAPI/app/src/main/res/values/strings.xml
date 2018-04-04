@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">CryptoAPI</string>
+    <string name="refresh">Refresh</string>
+    <string name="settings">Settings</string>
+
+    <!-- Available Crypto Currencies -->
+    <string name="BTC">Bitcoin (BTC)</string>
+    <string name="ETH">Ethereum (ETH)</string>
+    <string name="TRX">Tronix (TRX)</string>
+    <string name="XRP">Ripple (XRP)</string>
+    <string name="STORM">Storm (STORM)</string>
+    <string name="BNB">Binance Coin (BNB)</string>
+    <string name="LTC">Litecoin (LTC)</string>
+    <string name="EOS">EOS (EOS)</string>
+    <string name="BCH">Bitcoin Cash (BCH)</string>
+    <string name="DASH">DigitalCash (DASH)</string>
+    <string name="ETC">Etherum Classic (ETC)</string>
+    <string name="HT">Huobi Token (HT)</string>
+    <string name="IOST">IOS token (IOST)</string>
+    <string name="QTUM">QTUM (QTUM)</string>
+    <string name="NEO">NEO (NEO)</string>
+    <string name="XVG">Verge (XVG)</string>
+    <string name="ICX">Icon Project (ICX)</string>
+    <string name="ADA">Cardano (ADA)</string>
+    <string name="NCASH">Nucleus Vision (NCASH)</string>
+    <string name="MTL">Metal (MTL)</string>
+</resources>
